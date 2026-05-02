@@ -47,7 +47,7 @@ export const projectsData: Project[] = [
       "Notificaciones contextuales reutilizables para todos los roles.",
       "Base de datos híbrida: MySQL local (desarrollo) y PostgreSQL en la nube (producción).",
     ],
-    link: "https://consultorios-1.onrender.com/", // reemplazar con URL de despliegue o repositorio
+    link: "https://app-consultorios-1.onrender.com/home", // reemplazar con URL de despliegue o repositorio
   },
   {
     id: 3,
